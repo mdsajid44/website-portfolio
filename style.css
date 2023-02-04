@@ -1,0 +1,59 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    margin: 0%;
+     }
+h1 {font-size: 50px;
+    font-style: Sans-serif;}
+h3{color: rgb(51, 170, 124);}
+    .rede-highlight{color: red;}
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    .half-width img{ width: 100%;}
+    .top-banner {background-image: url(images/top-banner.png);
+                  background-repeat: no-repeat;}
+    section{height: 500px;
+             padding-bottom: 150px;}
+
+   
+    .button{text-decoration: none;
+            background-color: rgb(147, 62, 13);
+            padding: 10px 20px ;
+            color: antiquewhite;
+           border-radius: 5px;
+           font-weight:700;
+            background-image: linear-gradient(red,rgb(7, 17, 207));}
+.button:hover{color: rgb(27, 24, 24);border: 2px solid palevioletred;}
+
+.sbutton{text-decoration: none;
+    background-color: rgb(147, 62, 13);
+      padding: 10px 20px ;
+color: antiquewhite;
+      border-radius: 5px;
+     font-weight:700;
+background-image: linear-gradient(red,rgb(7, 17, 207));}
+
+
+.single-experience{box-shadow: 10px 10px 40px gray;
+border-radius: 5px;height: 300px;}
+.experience-area{background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+#full-stack{border-left: 7px solid ;
+border-image: linear-gradient(180deg,lightsalmon,tomato);
+border-image-slice: 1;background-color: white;
+}
+#junior{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+#high{margin-left: 100px;}
+footer{text-align: center;}
+
+
+
